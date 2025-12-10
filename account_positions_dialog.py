@@ -209,3 +209,4 @@ class AccountPositionsDialog(QDialog):
                 "لم يتم نقل الصفقة.\n"
                 "تحقق من أن البوت في وضع LIVE وأن الرمز موجود في مراكز الحساب."
             )
+
