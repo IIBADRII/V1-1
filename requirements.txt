@@ -1,0 +1,16 @@
+# Trading Bot Pro — requirements
+# Python 3.10+
+
+PyQt5>=5.15.9
+requests>=2.31.0
+python-binance>=1.0.19
+
+# Data / utilities (often used by strategy + analytics)
+numpy>=1.24
+pandas>=2.0
+
+# Optional nice-to-have for timezones / parsing
+python-dateutil>=2.8.2
+
+# Optional: if you use retry patterns elsewhere
+tenacity>=8.2.3
